@@ -1,0 +1,23 @@
+{
+  "name": "documentacion-der",
+  "version": "1.0.0",
+  "description": "\"Documentación de DERs de proyectos\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veronica-fi/documentacion-der.git"
+  },
+  "author": "Verónica Domínguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veronica-fi/documentacion-der/issues"
+  },
+  "homepage": "https://github.com/veronica-fi/documentacion-der#readme",
+  "dependencies": {
+    "@dbml/cli": "^3.0.0",
+    "dbdocs": "^0.8.4"
+  }
+}

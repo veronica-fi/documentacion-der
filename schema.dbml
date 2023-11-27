@@ -1,0 +1,8 @@
+Table "prueba"."persona" {
+  "id" int4 [not null]
+  "nombre" text
+
+Indexes {
+  id [pk, name: "persona_pkey"]
+}
+}
